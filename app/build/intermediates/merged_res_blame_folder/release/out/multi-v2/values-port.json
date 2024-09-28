@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "net.apw.codeaurora.gitclone.app-mergeReleaseResources-44:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cd634fd8e8a55d4830eb60ee15691207/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/drawable_ic_launcher_background.xml.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/xml_data_extraction_rules.xml.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/raw_welcome.json.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/raw/welcome.json"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/xml_backup_rules.xml.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.apw.codeaurora.gitclone.app-merged_res-46:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "net.apw.codeaurora.gitclone.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]

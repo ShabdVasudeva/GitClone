@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/storage/emulated/0/AndroidIDEProjects/GitClone/app"
+    name=":app"
+    type="APP"
+    maven="GitClone:app:"
+    agpVersion="8.0.0"
+    buildFolder="build"
+    bootClassPath="/data/data/com.itsaky.androidide/files/home/android-sdk/platforms/android-33/android.jar:/data/data/com.itsaky.androidide/files/home/android-sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

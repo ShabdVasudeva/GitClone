@@ -1,0 +1,7 @@
+#Fri Sep 27 16:57:34 GMT 2024
+base.1=/storage/emulated/0/AndroidIDEProjects/GitClone/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/storage/emulated/0/AndroidIDEProjects/GitClone/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

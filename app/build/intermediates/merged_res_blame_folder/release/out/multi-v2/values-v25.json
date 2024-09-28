@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "net.apw.codeaurora.gitclone.app-mergeReleaseResources-44:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/cd634fd8e8a55d4830eb60ee15691207/transformed/appcompat-1.6.1/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
