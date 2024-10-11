@@ -22,9 +22,5 @@ jobs:
 
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
-    - name: Install Wrapper
-      run: sudo apt install gradle
-    - name: Set Wrapper
-      run: gradle wrapper
     - name: Build with Gradle
       run: bash gradlew build
