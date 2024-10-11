@@ -23,7 +23,7 @@ jobs:
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
     - name: Install Wrapper
-      run: brew install gradle
+      run: pkg install gradle
     - name: Set Wrapper
       run: gradle wrapper
     - name: Build with Gradle
